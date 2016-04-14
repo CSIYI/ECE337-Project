@@ -1,0 +1,7 @@
+module s_box
+  (
+   input wire [47:0] data,
+   output wire [31:0] s_output
+   );
+
+   
